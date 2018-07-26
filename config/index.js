@@ -1,11 +1,11 @@
 //数据库连接配置 MySQL
 module.exports = {
     mysql: {
-        host: 'longtsing.com',
-        user: 'root',
-        password: 'za-lijie',
-        database: 'longtsing',
-        port: 3308
+        host: '', //域名
+        user: '', // 用户
+        password: '',// 密码
+        database: '', //
+        port: 3308       // 端口
     },
 
 };
